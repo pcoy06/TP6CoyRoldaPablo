@@ -10,7 +10,7 @@ namespace TP6CoyRoldaPablo
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
-        /// Casas
+        /// Casas de
         /// </summary>
         [STAThread]
         static void Main()
